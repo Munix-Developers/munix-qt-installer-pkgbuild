@@ -1,7 +1,7 @@
 # Maintainer: Mateus Mercer <mateusmercer@gmail.com>
 pkgname=munix-installer
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Munix distribution installer."
 arch=("any")
 depends=("qt5-base")
